@@ -11,7 +11,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['523316968621', 'Buitre-OFC ', true], 
+['523316968621', 'GRIFO-BOT ', true], 
 ['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['5521989092076', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
@@ -97,21 +97,21 @@ global.author = 'Buitre Bot'
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['523316968621', 'Buitre Dios 💻', 1], 
+['523316968621', 'GRIFO BOT Dios 💻', 1], 
 ['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['523316968621', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['523316968621', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
 ['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //Buitre BOT md ACTIVO!!
+global.desc = '' //GRIFO BOT md ACTIVO!!
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.0.1'
 global.vsJB = '3.0'
 
-global.gt = 'Buitre Bot '
+global.gt = 'Grifo Bot '
 global.yt = 'https://youtube.com/@iambuitre'
 global.yt2 = 'https://youtube.com/@iambuitre'
 global.ig = 'https://youtube.com/@iambuitre'
@@ -137,8 +137,8 @@ global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'Buitre Bot Lite 🌻 : Buitre OFC '
-global.igfg = 'Buitre Bot Lite'
+global.wm = 'GRIFOBOT 🌻 : GRIFO BOT '
+global.igfg = 'GRIFO BOT Lite'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
