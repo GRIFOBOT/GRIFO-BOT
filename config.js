@@ -112,11 +112,11 @@ global.vs = '1.0.1'
 global.vsJB = '3.0'
 
 global.gt = 'Grifo Bot '
-global.yt = 'https://youtube.com/@iambuitre'
-global.yt2 = 'https://youtube.com/@iambuitre'
-global.ig = 'https://youtube.com/@iambuitre'
+global.yt = 
+global.yt2 =
+global.ig = 
 global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
-global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
+global.fb =
 
 global.nna = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //UPDATE GATABOT
 global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
