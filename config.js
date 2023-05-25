@@ -129,7 +129,7 @@ global.nnnttt2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 6 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
-global.paypal = 'https://www.paypal.me/Buitre01'
+global.paypal = 'https://www.paypal.me/OscarEduardoMeza'
 global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
